@@ -4,4 +4,6 @@
 
     echo "Ola, udemy!"
 
+    echo "Ola, hcode!";
+
 ?>
